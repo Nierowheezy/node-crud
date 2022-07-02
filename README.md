@@ -9,4 +9,4 @@ Each Todo document should contain at least the following fields: \_id, title, de
 
 [Github Link](https://github.com/Nierowheezy/node-crud.git)
 
-[API DOCS](https://documenter.getpostman.com/view/6423394/UzJETzqM)
+[View API Documentation on Postman](https://documenter.getpostman.com/view/6423394/UzJETzqM)
